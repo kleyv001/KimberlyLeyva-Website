@@ -1,6 +1,5 @@
-
 # Welcome to LearnCS8 Resume Website
+Kimberly Leyva
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+![Description](img/screenshot.jpg)
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
